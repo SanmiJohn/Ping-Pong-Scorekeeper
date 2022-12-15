@@ -1,0 +1,91 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    width: 32em;
+    height: 17em;
+}
+
+section {
+    width: 32em;
+}
+
+div {
+    width: 32em;
+}
+
+#firstdiv {
+    height: 17em;
+    border: 0.5px solid;
+    box-shadow: 2px 2px 2px rgb(231, 227, 227) inset;
+    border-color: aliceblue;
+}
+
+#seconddiv {
+    padding: 1em;
+    width: 24.6em;
+    font-size: larger;
+    border: 0.5px solid;
+    box-shadow: 2px 2px 2px rgb(231, 227, 227) inset;
+    border-color: aliceblue;
+}
+
+#thirddiv {
+    padding-left: 1em;
+    padding-top: 1.2em;
+    width: 27.4em;
+    font-size: large;
+    border: 0.5px solid;
+    box-shadow: 2px 2px 2px rgb(231, 227, 227) inset;
+    border-color: aliceblue;
+}
+
+#fourthdiv {
+    height: 3.5em;
+    border: 0.5px solid;
+    box-shadow: 2px 2px 2px rgb(231, 227, 227) inset;
+    border-color: aliceblue;
+}
+
+select {
+    border-radius: 20px;
+    padding: 0.5em;
+}
+
+button {
+    width: 33.333%;
+    height: 3.2em;
+    font-size: larger;
+    border: 0px;
+    border-radius: 3px;
+    color: white;
+}
+
+#firstbtn {
+    background-color: #124559;
+}
+
+#secondbtn {
+    background-color: #4361ee;
+}
+
+#thirdbtn {
+
+    background-color: #ef233c;
+}
+
+#within {
+    width: 10.3em;
+    font-size: 3em;
+}
+
+#cool {
+    font-size: larger;
+}
+
+p {
+    font-size: 1.35Tem;
+}
