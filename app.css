@@ -90,7 +90,7 @@ p {
     font-size: 1.35em;
 }
 
-@media (min-width: 380px) {
+@media (max-width: 580px) {
     img {
         width: 20em;
         height: 17em;
