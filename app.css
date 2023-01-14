@@ -101,8 +101,9 @@ p {
         flex-direction: column;
         justify-content: center;
         text-align: center;
-        height: 52em;
+        height: 50em;
         margin-top: 1em;
+        margin-bottom: 5em;
     }
 
     #firstdiv {
