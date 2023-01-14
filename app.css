@@ -90,13 +90,16 @@ p {
     font-size: 1.35em;
 }
 
-@media (max-width: 480px) {
+@media (min-width: 380px) {
     img {
         width: 20em;
         height: 17em;
     }
 
     section {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
         text-align: center;
         height: 50em;
         margin-top: 2em;
@@ -123,20 +126,19 @@ p {
 
     #fourthdiv {
         height: 12em;
-        width: 18em;
+        width: 20em;
         display: flex;
         flex-direction: column;
         margin: 0 auto;
-        margin-left: 0.7em;
     }
 
 
     #firstbtn,
     #secondbtn,
     #thirdbtn {
-        width: 13.4em;
+        width: 16.7em;
         height: 4em;
-        font-size: x-large;
+        margin: 0 auto;
     }
 
     #cool {
